@@ -12,5 +12,9 @@
 地址：  广东省深圳市龙华区
 
 以下是我的一些作品链接：
+
 https://github.com/IvyXie616/RAG_paper_assistant
+
 https://github.com/IvyXie616/travel_assistant
+
+https://github.com/IvyXie616/travel_assistant_deepresearch
